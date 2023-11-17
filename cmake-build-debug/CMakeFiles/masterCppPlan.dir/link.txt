@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/masterCppPlan.dir/main.cpp.o -o masterCppPlan 

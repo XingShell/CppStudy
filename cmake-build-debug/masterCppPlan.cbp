@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="masterCppPlan"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/tmp/tmp.wHgMUUjupg/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.wHgMUUjupg/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.wHgMUUjupg/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.wHgMUUjupg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.wHgMUUjupg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="masterCppPlan">
+				<Option output="/tmp/tmp.wHgMUUjupg/cmake-build-debug/masterCppPlan" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.wHgMUUjupg/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/aarch64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/aarch64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/aarch64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.wHgMUUjupg/cmake-build-debug/Makefile&quot;  VERBOSE=1 masterCppPlan"/>
+					<CompileFile command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.wHgMUUjupg/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.wHgMUUjupg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.wHgMUUjupg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="masterCppPlan/fast">
+				<Option output="/tmp/tmp.wHgMUUjupg/cmake-build-debug/masterCppPlan" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.wHgMUUjupg/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/aarch64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/aarch64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/aarch64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.wHgMUUjupg/cmake-build-debug/Makefile&quot;  VERBOSE=1 masterCppPlan/fast"/>
+					<CompileFile command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.wHgMUUjupg/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.wHgMUUjupg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.wHgMUUjupg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/tmp/tmp.wHgMUUjupg/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.wHgMUUjupg/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.wHgMUUjupg/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.wHgMUUjupg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.wHgMUUjupg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/tmp/tmp.wHgMUUjupg/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.wHgMUUjupg/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.wHgMUUjupg/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.wHgMUUjupg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.wHgMUUjupg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/tmp/tmp.wHgMUUjupg/10_1/CPU亲缘.h">
+			<Option target="masterCppPlan"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.wHgMUUjupg/10_1/原子操作CAS与锁的实现.h">
+			<Option target="masterCppPlan"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.wHgMUUjupg/10_2/ArrayLockFreeQueue.h">
+			<Option target="masterCppPlan"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.wHgMUUjupg/10_2/ArrayLockFreeQueueImpl.h">
+			<Option target="masterCppPlan"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.wHgMUUjupg/10_2/BlockQueue.h">
+			<Option target="masterCppPlan"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.wHgMUUjupg/10_2/SimpleLockFreeQueue.h">
+			<Option target="masterCppPlan"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.wHgMUUjupg/10_2/atom_opt.h">
+			<Option target="masterCppPlan"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.wHgMUUjupg/10_2/atomic_ptr.h">
+			<Option target="masterCppPlan"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.wHgMUUjupg/10_2/ypipe.h">
+			<Option target="masterCppPlan"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.wHgMUUjupg/10_2/yqueue.h">
+			<Option target="masterCppPlan"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.wHgMUUjupg/10_2/无锁消息队列.h">
+			<Option target="masterCppPlan"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.wHgMUUjupg/10_3/graph.h">
+			<Option target="masterCppPlan"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.wHgMUUjupg/10_3/死锁.h">
+			<Option target="masterCppPlan"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.wHgMUUjupg/10_4/内存泄露检测.h">
+			<Option target="masterCppPlan"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.wHgMUUjupg/10_5/分布式锁.h">
+			<Option target="masterCppPlan"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.wHgMUUjupg/main.cpp">
+			<Option target="masterCppPlan"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.wHgMUUjupg/util/mmapUse.h">
+			<Option target="masterCppPlan"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.wHgMUUjupg/util/systemUtil.h">
+			<Option target="masterCppPlan"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.wHgMUUjupg/util/timeUtil.h">
+			<Option target="masterCppPlan"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.wHgMUUjupg/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
