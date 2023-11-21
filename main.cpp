@@ -11,10 +11,13 @@
 //#include "10_3/graph.h"
 
 #include "10_4/内存泄露检测.h"
+#include "10_5/分布式锁.h"
 
 #include <filesystem>
 #include <fstream>
 namespace fs = std::filesystem;
+
+
 
 
 int main() {
@@ -24,6 +27,7 @@ int main() {
     // test_10_2();
     // test_10_3();
     // test_graph();
-    test_10_4();
+    // test_10_4();
+    // test_10_5();
     return 0;
 }
